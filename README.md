@@ -1,6 +1,6 @@
 # Magazine Layout Project 📰
 
-This project was completed as part of freeCodeCamp’s Responsive Web Design curriculum.
+This project was built as part of [freeCodeCamp's Responsive Web Design certification](https://www.freecodecamp.org/learn/).
 The goal was to learn and apply CSS Grid to create a responsive, magazine-style page layout.
 
 ## Live Demo
